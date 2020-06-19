@@ -1,3 +1,4 @@
+#changed
 class Customer:
     def __init__(self,cursor,cnx):
         self.cursor=cursor
